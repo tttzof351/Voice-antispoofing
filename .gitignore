@@ -1,0 +1,8 @@
+voice_none_model/
+voice_zero_model/
+catboost_info/
+.ipynb_checkpoints/
+dataset/Testing_Data/
+dataset/Testing_Data
+dataset/Training_Data/
+dataset/Training_Data

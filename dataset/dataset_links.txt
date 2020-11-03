@@ -1,0 +1,6 @@
+Before start your need to download dataset:
+
+#Train: https://drive.google.com/file/d/13hVWxm4GbaFUj5SijJIZ40vTPSYnyNxq/view?usp=sharing
+
+#Test: https://drive.google.com/file/d/1-24PA2Fht7Hd3j40c5LelVsWgWfJhF07/view?usp=sharing
+
